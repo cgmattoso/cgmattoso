@@ -1,7 +1,9 @@
 - 👋 "hellow word" Sou Carlos Gilberto Mattoso, @cgmattoso , Analista de Infraestrutura e curioso por tecnologia e inovação.
 - 👀 Apos alguns anos trabalhando como suporte e infraestrutura, meu objetivo e interesse é desenvolver vasto conhecimento em ciencia de dados e me aperfeisoar em cloud.
 - 🌱 Atualmente oque estou aprendendo é conhecimento mais conciso em AZURE, Code R, Code Python e Ciencia de Dados
-- 📫 Github - (https://github.com/cgmattoso/) / Instagram @cgmattoso
+
+## 🔹Entre em contato comigo! 
+<a href = "mailto:cgmattoso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="https://www.linkedin.com/in/cgmattoso/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/cgmattoso" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/></a>
 
 Soft Skill
 ===========
@@ -57,9 +59,17 @@ Projetos envolvidos
 
 * Migração servidor CITRIX (responsavel por instalar as aplicações dentro do CITRIX e atribuilas a grupo de acesso).
 
+
 * Implantação de MFA (responsavel pelo levantamento da quantificação de usuário do AD e reportar a gerência para aquisição de licenciamento).
 
 * Implantação de PCN ao setor de TI (Responsalvel por efetuar documentação e levantamento de processos).
+
+
+Status
+===========
+
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cgmattoso&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=cgmattoso&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+  | :-: | :-: |
 <!---
 cgmattoso/cgmattoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
