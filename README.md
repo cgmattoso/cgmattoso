@@ -1,8 +1,7 @@
 - 👋 "hellow word" Sou Carlos Gilberto Mattoso, @cgmattoso , Analista de Infraestrutura e curioso por tecnologia e inovação.
 - 👀 Apos alguns anos trabalhando como suporte e infraestrutura, meu objetivo e interesse é desenvolver vasto conhecimento em ciencia de dados e me aperfeisoar em cloud.
-- 🌱 Atualmente oque estou aprendendo é conhecimento mais consiso em AZURE, Code R, Code Python e Ciencia de Dados
-- 📫 Github - (https://github.com/cgmattoso/)
-     Instagram @cgmattoso
+- 🌱 Atualmente oque estou aprendendo é conhecimento mais conciso em AZURE, Code R, Code Python e Ciencia de Dados
+- 📫 Github - (https://github.com/cgmattoso/) / Instagram @cgmattoso
 
 Soft Skill
 ===========
